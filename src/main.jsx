@@ -5,7 +5,7 @@ import {DropDown} from "./Dropdown";
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <DropDown />
-  </React.StrictMode>
+  // </React.StrictMode>
 )
